@@ -149,3 +149,6 @@ class OBS_rotate():
                     self.STNs_Az[STN]    = float(line[30:36])
         ORI_DAT.close()
         return
+    
+    # Sorry I'm just trying
+    # and want to know what will happen
